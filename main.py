@@ -9,3 +9,4 @@ from PyQt6.QtWidgets import (QApplication, QMainWindow)
 
 
 def main(seslf):
+    pass
