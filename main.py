@@ -446,6 +446,7 @@ class MyWidget(QMainWindow):
         # Имя элемента совпадает с objectName в QTDesigner
 
 
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = MyWidget()
