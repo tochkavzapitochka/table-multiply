@@ -6,6 +6,7 @@ import datetime as dt
 from PyQt6.QtCore import QDate
 from PyQt6.QtWidgets import (QApplication, QMainWindow)
 import io
+
 from PyQt6 import uic  # Импортируем uic
 
 template1 = """<?xml version="1.0" encoding="UTF-8"?>
